@@ -1,4 +1,4 @@
-# Smart-device-usage-analysis
+# Smart-Device-Usage-Analysis
 ## Buisness Objective
 Finding trends in smart device usage (for fitness purposes) of non-Bellabeat users that can help influence Bellabeat marketing strategy and growth.
 
