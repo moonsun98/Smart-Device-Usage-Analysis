@@ -67,4 +67,4 @@ The following conclusions can be drawn from each graph:
 
 ##
 
-#### Note - This was a project done for Google Data Anlaytics Certification and is for educational purposes only.
+#### Note - Completed as part of the Google Data Analytics Professional Certificate (2021)
